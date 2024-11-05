@@ -1,6 +1,6 @@
 # FERNANDO PEDROSO DE MORAES
 
-Olá, meu nome é Fernando, tenho 37 anos e gosto muito de programação. Diariamente estou aprendendo a linguagem Dart/Flutter e realizando pequenos projetos, tanto individuais quanto participação em outros desenvolvimentos focando na aprendizagem.
+Olá, meu nome é Fernando, nascido em 1985 e gosto muito de programação. Diariamente estou aprendendo a linguagem Dart/Flutter e realizando pequenos projetos, tanto individuais quanto participação em outros desenvolvimentos focando na aprendizagem.
 
 ## Habilidades
 
